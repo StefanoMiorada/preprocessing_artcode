@@ -1,7 +1,6 @@
 import glob
 import os
 from datetime import datetime
-from crea_df import *
 from calcolo_cycle_time import *
 
 # posizione delle cartelle con tutti gli artcode
